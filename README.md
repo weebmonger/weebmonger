@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @weebmonger
-- 👀 I’m interested in data science an bong shots
+- 👀 I’m interested in data science 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me insansaw@gmail.com
